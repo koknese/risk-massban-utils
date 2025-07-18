@@ -1,15 +1,7 @@
-# autofeed
+# Risk Massban utils
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.2.14. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+# Installation
+Prerequisitiees: Automa browser extensions, https://bun.sh
+1. Clone the repo via git or download the zip file of the repo.
+2. Open the folder in your terminal, run `bun install`.
+3. 
