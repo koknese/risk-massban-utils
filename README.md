@@ -5,7 +5,7 @@ Prerequisitiees: Automa browser extensions, https://bun.sh
 1. Clone the repo via git or download the zip file of the repo.
 2. Open the folder in your terminal, run `bun install`.
 3. Open the Automa extension in your browser, press the home icon.
-4. Once you're in Automa dashboard, click on the arrow next to "New workflow" and import RISK FREE AUTOBAN 100_ WORKING IN PUNJABI.automa(1).json
+4. Once you're in Automa dashboard, click on the arrow next to "New workflow" and import `RISK FREE AUTOBAN 100_ WORKING IN PUNJABI.automa(1).json`
 5. In the folder, create a file named `frost.md`, where you can store your usernames to ban - seperated by a newline.
 6. In the cmd and in the same folder, run `bun run index.ts`
 7. Now pressing enter will copy the usernames to your clipboard.
